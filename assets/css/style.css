@@ -418,6 +418,8 @@ body.nav-open .menu-toggle span:last-child { top: 21.5px; transform: rotate(-45d
   background: rgba(12, 23, 18, .88); backdrop-filter: blur(6px); -webkit-backdrop-filter: blur(6px);
   color: var(--gold-light); font-size: .72rem; letter-spacing: .06em; line-height: 1.4;
 }
+.concept-badge a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+.concept-badge a:hover { color: var(--on-dark); }
 
 /* ---------- Lightbox ---------- */
 .lightbox { border: 0; padding: 0; background: transparent; max-width: min(92vw, 1400px); max-height: 90vh; overflow: visible; }

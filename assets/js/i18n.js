@@ -158,7 +158,7 @@
       'footer.top': 'Back to top ↑',
       'fab': 'Book via WhatsApp',
       'lb.close': 'Close',
-      'concept': 'Concept design · not the official website'
+      'concept': 'Concept design by <a href="https://bareit.be" target="_blank" rel="noopener">bareit.be</a> · not the official website'
     },
 
     fr: {
@@ -302,7 +302,7 @@
       'footer.top': 'Retour en haut ↑',
       'fab': 'Réserver via WhatsApp',
       'lb.close': 'Fermer',
-      'concept': 'Projet de site · pas le site officiel'
+      'concept': 'Projet de site par <a href="https://bareit.be" target="_blank" rel="noopener">bareit.be</a> · pas le site officiel'
     }
   };
 
